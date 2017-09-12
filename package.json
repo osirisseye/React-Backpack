@@ -5,9 +5,12 @@
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server",
-    "test": "react-scripts test --env=jest",
+    "test": "jest",
     "build": "",
     "build:prod": ""
+  },
+  "jest": {
+    "verbose": true
   },
   "author": "Lukasz Andruchow",
   "license": "ISC",
