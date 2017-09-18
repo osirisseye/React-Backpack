@@ -14,7 +14,7 @@ Install [git](https://git-scm.com/) and [node](https://nodejs.org/en/) if you ha
 ```
 git clone https://github.com/osirisseye/React-Backpack.git
 ```
-* Install the dependencies:
+* Install dependencies:
 
 ```
 npm install
