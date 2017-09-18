@@ -1,7 +1,5 @@
 # React-Backpack
 
-<h1>React-Backpack</h1>
-
 <h3>Simple and lean</h3>
 <p>Start your new project with this lightweight React-Backpack. It has everything you need to just 'go':</p>
 <ul>
