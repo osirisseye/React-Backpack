@@ -9,4 +9,22 @@
     <li>Webpack (with hot reloading and minification) to bundle all of the above...</li>
 </ul>
 
+<h3>Just GO!</h3>
+<p>Install git and node if you haven't already.</p>
+<ul>
+    <li>Fork and clone your Backpack</li>
+```html
+git clonehttps://github.com/osirisseye/React-Backpack.git
+```
+    <li>Install dependencies</li>
+```html
+npm install
+```
+    <li>Finally, run dev server</li>
+```html
+npm start
+```
+</ul>
+
+
 
