@@ -1,7 +1,7 @@
 # React-Backpack
 
 ### Simple and lean
-Start your new project with this lightweight React-Backpack. It has everything you need, no unnecessary distractions:
+Start your new project with this lightweight React-Backpack. It has everything you need, without unnecessary distractions:
 
 * React and ReactDOM
 * ES6 ready thanks to [Babel](https://babeljs.io/)
