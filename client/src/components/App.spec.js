@@ -5,10 +5,10 @@ import App from './App.js'
 
 describe('App', () => {
     it('renders without crashing', () => {
-            mount(<App />);
+        mount(<App />);
     });
 
-    it('name of the test', () => {
+    it('basic test #1', () => {
         expect(2+2).toEqual(4);
     });
 

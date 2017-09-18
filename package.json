@@ -4,10 +4,10 @@
   "description": "Simple boilerplate for React, Webpack, Babel, Enzyme",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server",
+    "start": "webpack-dev-server --watch",
     "test": "jest",
-    "build": "",
-    "build:prod": ""
+    "build": "webpack-dev-server webpack -d --watch",
+    "build:prod": "webpack -p"
   },
   "jest": {
     "verbose": true,
