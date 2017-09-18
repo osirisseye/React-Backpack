@@ -1,31 +1,27 @@
 # React-Backpack
 
-<h3>Simple and lean</h3>
-<p>Start your new project with this lightweight React-Backpack. It has everything you need, no unnecessary distractions:</p>
-<ul>
-    <li>React and ReactDOM </li>
-    <li>ES6 ready thanks to Babel</li>
-    <li>Jest and Enzyme for testing</li>
-    <li>Webpack (with hot reloading and minification) to bundle all of the above...</li>
-</ul>
+### Simple and lean
+Start your new project with this lightweight React-Backpack. It has everything you need, no unnecessary distractions:
 
-<h3>Just GO!</h3>
-<p>Install git and node if you haven't already.</p>
-<ul>
-    <li>Fork and clone your Backpack</li>
-</ul>
+* React and ReactDOM
+* ES6 ready thanks to Babel
+* Jest and Enzyme for testing
+* Webpack (with hot reloading and minification) to bundle all of the above...
+
+### Just GO!
+Install git and node if you haven't already.
+* Fork and clone your Backpack
 ```
 git clonehttps://github.com/osirisseye/React-Backpack.git
 ```
-<ul>
-    <li>Install dependencies</li>
-</ul>
+* Install the dependencies:
+
 ```
 npm install
 ```
-<ul>
-    <li>Finally, run dev server</li>
-</ul>
+
+* Run development server:
+
 ```
 npm start
 ```
