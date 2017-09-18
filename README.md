@@ -13,18 +13,19 @@
 <p>Install git and node if you haven't already.</p>
 <ul>
     <li>Fork and clone your Backpack</li>
+</ul>
 ```html
 git clonehttps://github.com/osirisseye/React-Backpack.git
 ```
+<ul>
     <li>Install dependencies</li>
+</ul>
 ```html
 npm install
 ```
+<ul>
     <li>Finally, run dev server</li>
+</ul>
 ```html
 npm start
 ```
-</ul>
-
-
-
