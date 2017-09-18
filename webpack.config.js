@@ -22,8 +22,9 @@ var config = {
             }
         ]
     },
-    plugins: [HtmlWebpackPluginConfig]
-
+    plugins: [
+        HtmlWebpackPluginConfig
+    ]
 
 };
 
