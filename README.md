@@ -28,7 +28,7 @@ npm start
 Find your setup by clicking: `http://localhost:8080/`
 
 ### Testing
-Tests are done AirB&B-way:
+Tests are done AirBnB-way:
 * Jest
 * Enzyme
 * React Test Utils
