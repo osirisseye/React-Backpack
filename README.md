@@ -46,4 +46,4 @@ npm build:prod
 
 
 ### Contribute
-Please, do not hesitate to if you feel like contributing. Every pair of able hands will help :)
+Please, do not hesitate if you feel like contributing. Every pair of able hands will help :)
