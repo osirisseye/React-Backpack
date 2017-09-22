@@ -7,18 +7,22 @@ const HtmlWebpackPluginConfig = new HtmlWebpackPlugin({
 })
 
 var config = {
-    entry: "./client/src/index.js",
+    entry: './client/src/index.js',
     output: {
-        path: "/dist",
-        filename: "bundle.js",
+        path: '/dist',
+        filename: 'bundle.js',
 
     },
     module: {
         loaders: [
             {
                 test: /\.js?/,
-                loader: "babel-loader",
+                loader: 'babel-loader',
                 exclude: /node_modules/,
+            },
+            {
+                test: /\.css$/,
+                loaders: ['style-loader', 'css-loader']
             }
         ]
     },
