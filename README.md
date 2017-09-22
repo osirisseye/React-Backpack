@@ -6,7 +6,7 @@ Start your new project with this lightweight React-Backpack. It has everything y
 * React and ReactDOM
 * ES6 ready thanks to [Babel](https://babeljs.io/)
 * [Jest](https://facebook.github.io/jest/docs/en/getting-started.html) and [Enzyme](http://airbnb.io/enzyme/index.html) for testing
-* [Webpack](https://webpack.js.org/configuration/) (with hot reloading and minification) to bundle all of the above...
+* [Webpack](https://webpack.js.org/configuration/) (with basic css and style loaders, hot reloading and minification) to bundle all of the above...
 
 ### Just GO!
 Install [git](https://git-scm.com/) and [node](https://nodejs.org/en/) if you haven't already.
